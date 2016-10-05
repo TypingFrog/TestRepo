@@ -5,3 +5,6 @@ YAML online checker:
 
 http://yaml-online-parser.appspot.com/
 
+# TODOs
+
+* [ ] rename collections to a singular form posts -> post
