@@ -1,0 +1,24 @@
+---
+title:
+  en: this is the title of the test site
+authors:
+  -
+    name: Pierre Carion
+    email: pcarion@gmail.com
+    
+# list of the supported languages    
+languages:
+ - iso: en
+ - iso: fr
+ 
+# list of catégories for the site 
+categories:
+  -
+    name:
+      en: general
+      fr: général
+  -
+    name:
+      en: misc
+      fr: divers
+---
