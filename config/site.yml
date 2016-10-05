@@ -11,6 +11,8 @@ languages:
  - iso: en
  - iso: fr
  
+ mainLanguage: en
+ 
 # list of catégories for the site 
 categories:
   -
