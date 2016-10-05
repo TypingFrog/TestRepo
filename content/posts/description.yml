@@ -9,7 +9,7 @@ meta:
       - en: title of the post
   -
     name: category
-    type: string from config.categories
+    type: string from site.categories
     isOptional: false
     description: 
       - en: category the post belongs to. Must be part of the categories definition
