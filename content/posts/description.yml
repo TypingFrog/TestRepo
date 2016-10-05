@@ -4,26 +4,31 @@ meta:
   -
     name: title
     type: string
-    description: title of the post
     isOptional: false
+    description: 
+      - en: title of the post
   -
     name: category
     type: string from config.categories
-    decription: category the post belongs to. Must be part of the categories definition
     isOptional: false
+    description: 
+      - en: category the post belongs to. Must be part of the categories definition
   -
     name: tags
     type: array of string
-    decription: tags associated to the post. May have multiple tags, free form
     isOptional: true
+    description: 
+      - en: tags associated to the post. May have multiple tags, free form
   -
     name: isDraft
     type: boolean
     default: true
-    decription: set to false to indicate that this post is no more a draft
+    description: 
+      - en: set to false to indicate that this post is no more a draft
   -
     name: date
     type: dateTime
-    description: date associated to the post
     isOptional: false
+    description: 
+      - en: date associated to the post
 ---
