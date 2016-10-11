@@ -1,5 +1,11 @@
 ---
 version: 1.0
 name: Rainette
+authors:
+  -
+    name: Pierre Carion
+    email: pcarion@gmail.com
+    url: www.pcarion.com
+  
 description:
-  en : this is a sample theme to validate how we can define a them in TypingFrog
+  en : this is a sample theme to validate how we can define a theme in TypingFrog
