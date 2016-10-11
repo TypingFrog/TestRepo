@@ -20,6 +20,12 @@ meta:
     description: 
       - en: tags associated to the post. May have multiple tags, free form
   -
+    name: featuredImage
+    type: referenceto image 
+    isOptional: true
+    description: 
+      - en: a featured image associated to the post
+  -
     name: isDraft
     type: boolean
     default: true
