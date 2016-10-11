@@ -1,2 +1,5 @@
 ---
 version: 1.0
+name: Rainette
+description:
+  en : this is a sample theme to validate how we can define a them in TypingFrog
