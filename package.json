@@ -1,0 +1,22 @@
+{
+  "name": "testrepo",
+  "version": "1.0.0",
+  "description": "To test API access to the repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "git+https://github.com/TypingFrog/TestRepo.git",
+    "type": "git"
+  },
+  "author": "Pierre Carion <pcarion@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TypingFrog/TestRepo/issues"
+  },
+  "homepage": "https://github.com/TypingFrog/TestRepo#readme",
+  "dependencies": {
+    "marked": "^0.3.6"
+  }
+}
