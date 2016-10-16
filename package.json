@@ -36,6 +36,7 @@
     "gulp-mocha": "^3.0.1",
     "gulp-sourcemaps": "^2.1.1",
     "gulp-util": "^3.0.7",
-    "marked": "^0.3.6"
+    "marked": "^0.3.6",
+    "xml2js": "^0.4.17"
   }
 }
