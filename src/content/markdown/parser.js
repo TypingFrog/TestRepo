@@ -1,3 +1,9 @@
 import marked from 'marked';
 
-console.log(marked('I am using __markdown__.'));
+const options = {};
+const text = 'I am using __markdown__.';
+const lexer = new marked.Lexer(options);
+const tokens = lexer.lex(text);
+console.log(tokens);
+console.log(lexer.rules);
+console.log(marked(text));

@@ -1,0 +1,24 @@
+<theme>
+  <tf:root>
+    <tf:section name="header">
+    </tf:section>
+    <tf:section name="body">
+      <div id="body">
+        <tf:sidebar name="leftSidebar">
+        </tf:sidebar>
+        <div id="content">
+        </div>
+        <tf:sidebar name="rightSidebar">
+        </tf:sidebar>
+    </div>
+    </tf:section>
+    <tf:section name="footer">
+      <tf:sidebar name="footerSidebar1">
+      </tf:sidebar>
+      <tf:sidebar name="footerSidebar2">
+      </tf:sidebar>
+      <tf:sidebar name="footerSidebar3">
+      </tf:sidebar>
+    </tf:section>
+  </tf:root>
+</theme>
