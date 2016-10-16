@@ -1,4 +1,4 @@
-<theme>
+<tf:theme>
   <tf:root>
     <tf:section name="header">
     </tf:section>
@@ -6,6 +6,7 @@
       <div id="body">
         <tf:sidebar name="leftSidebar">
         </tf:sidebar>
+        <tf:section att='xxx'/>
         <div id="content">
         </div>
         <tf:sidebar name="rightSidebar">
@@ -21,4 +22,4 @@
       </tf:sidebar>
     </tf:section>
   </tf:root>
-</theme>
+</tf:theme>
