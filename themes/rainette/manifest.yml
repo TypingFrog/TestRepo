@@ -1,0 +1,12 @@
+---
+version: 1.0
+name: Rainette
+URL: https://www.typingfrog.com/themes/rainette
+authors:
+  -
+    name: Pierre Carion
+    email: pcarion@gmail.com
+    url: www.pcarion.com
+
+description:
+  en : this is a sample theme to validate how we can define a theme in TypingFrog
