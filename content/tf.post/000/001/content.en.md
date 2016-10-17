@@ -1,6 +1,6 @@
 ---
 title: My first blog post
 category: misc
-draft: true
+isDraft: true
 ---
 Hello! this is my first entry!
