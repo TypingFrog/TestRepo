@@ -4,6 +4,8 @@
 TypingFrog:
   version: "0.1"  # version of the typingfrog used to create this site
 
+
+
 widgets:
   -
     name: com.typingfrog.rainette.widget.gratipay
