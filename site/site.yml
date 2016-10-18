@@ -1,6 +1,21 @@
 ---
 title:
   en: this is the title of the test site
+  
+tagline:
+  en: my personal blog. Because the world needs it.
+  
+# see: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones  
+timeZone: America/Los_Angeles
+
+dateFormat:
+  en: MMMM D, YYYY
+  fr: D MMMM YYYY
+  
+timeFormat:
+  en: h:mm a
+  fr: HH:mm
+  
 authors:
   -
     name: Pierre Carion
