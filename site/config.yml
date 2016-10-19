@@ -1,10 +1,14 @@
 ---
-# this file contains the configuration data for the site
+# this file contains the description of the generation of the site
 
 TypingFrog:
   version: "0.1"  # version of the typingfrog used to create this site
 
-
+production:
+  -
+    name: all_posts
+    input: tf.post|all
+    output: /{{ post.id}}/{{ post.title }}
 
 widgets:
   -

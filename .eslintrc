@@ -25,7 +25,7 @@
     "no-console" : 0,
     "id-length": [2, {
       "min": 2,
-      "exceptions": ["q", "x","v","T"],
+      "exceptions": ["_", "x"],
     }],
   },
   "env": {
